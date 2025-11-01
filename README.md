@@ -11,10 +11,10 @@
 <!-- Painel simples com cards prontos -->
 <p align="center">
   <!-- Card geral -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnWRRC&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img heigth=180 src="https://github-readme-stats.vercel.app/api?username=JohnWRRC&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWRRC&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img heigth=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWRRC&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -24,5 +24,5 @@
 
 <p align="center">
   <!-- Badges -->
-  [![Último commit](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPO/main)](https://github.com/SEU_USUARIO/SEU_REPO)
+  [![Último commit](https://img.shields.io/github/last-commit/JohnWRRC/SEU_REPO/main)](https://github.com/JohnWRRC/SEU_REPO)
 </p>
