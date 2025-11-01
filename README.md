@@ -27,5 +27,5 @@
 
 <p align="center">
   <!-- Badge de último commit em um repositório exemplo -->
-  [![Último commit](https://img.shields.io/github/last-commit/JohnWRRC/LS_CORRIDORS/main)](https://github.com/JohnWRRC/LS_CORRIDORS)
+  [![Último commit](https://img.shields.io/github/last-commit/JohnWRRC/LS_CORRIDORS/master)](https://github.com/JohnWRRC/LS_CORRIDORS)
 </p>
