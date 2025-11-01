@@ -41,8 +41,9 @@
 </div>
 ---
 
-<div>
 
+<div>
+---
 ### 📚 Publicações e Artigos
 
 📖 Aqui estão alguns dos meus artigos e publicações científicas disponíveis para leitura ou download:
@@ -78,9 +79,11 @@
     </a>
   </li>
 </ul>
-  
-</div>
 ---
+</div>
+
+
+<div>
 ---
 ### 📊 Estatísticas do GitHub
 <p align="center">
