@@ -1,29 +1,63 @@
-## Olá — eu sou John Wesley Ribeiro
+<h2 align="center">👋 Olá, eu sou <b>John Wesley Ribeiro</b></h2>
+<h4 align="center">💻 Desenvolvedor GIS | Automação | Análise de Dados</h4>
 
-- 🔭 Hoje eu trabalho com desenvolvimento de ferramentas SIG, automação de processos e análise de dados.
-- 🌱 Atualmente estou aprendendo: desenvolvimento web com Flask e PostgreSQL, além de técnicas avançadas de geoprocessamento em Python e SIG.
-- 👯 Procuro colaborar em: projetos que envolvam análise geoespacial, automação com Python e desenvolvimento de ferramentas GIS.
-- 💬 Pergunte-me sobre: Python, QGIS, PostgreSQL/PostGIS, análise de dados geográficos e desenvolvimento de sistemas web.
-- 📫 Como me contatar:
-  - Email: [geodevjohn@gmail.com](mailto:geodevjohn@gmail.com)  
-  - WhatsApp: [wa.me/5519996760276](https://wa.me/5519996760276)  
-  - LinkedIn: [John Ribeiro](https://www.linkedin.com/in/john-ribeiro-077412a2/)
-- 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: sou apaixonado por tecnologia, mapas e por transformar ideias em soluções práticas.
+---
 
-<!-- Painel simples com cards prontos -->
+### 🚀 Sobre mim
+
+- 🔭 Trabalho com **desenvolvimento de ferramentas SIG**, **automação de processos** e **análise de dados geográficos**.  
+- 🌱 Atualmente aprendendo **Flask**, **PostgreSQL** e **geoprocessamento avançado com Python e SIG**.  
+- 👯 Procuro colaborar em projetos que envolvam **análise geoespacial**, **automação com Python** e **desenvolvimento de aplicações web GIS**.  
+- 💬 Pergunte-me sobre: `Python`, `QGIS`, `PostgreSQL/PostGIS`, `Flask`, `HTML`, `CSS`, `JavaScript`, `Java` e integração de dados geográficos.  
+- 📫 **Contato:**
+  - ✉️ [geodevjohn@gmail.com](mailto:geodevjohn@gmail.com)  
+  - 💬 [WhatsApp](https://wa.me/5519996760276)  
+  - 💼 [LinkedIn](https://www.linkedin.com/in/john-ribeiro-077412a2/)
+- 😄 **Pronomes:** ele/dele  
+- ⚡ **Curiosidade:** Sou apaixonado por tecnologia, mapas 🌍 e por transformar ideias em soluções práticas.  
+
+---
+
+### 🧠 Tecnologias & Ferramentas
 <p align="center">
-  <!-- Card geral -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JohnWRRC&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-  <!-- Linguagens mais usadas -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWRRC&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgres,flask,git,github,vscode,linux" />
 </p>
 
+---
 
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnWRRC&show_icons=true&theme=tokyonight&count_private=true" alt="JohnWRRC's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWRRC&layout=compact&theme=tokyonight&langs_count=8" alt="JohnWRRC's Top Languages"/>
+</p>
 
+---
+
+### 🕓 Último commit
 <p align="center">
   <a href="https://github.com/JohnWRRC/siteEmpresa">
     <img src="https://img.shields.io/github/last-commit/JohnWRRC/siteEmpresa/main?style=for-the-badge&color=blueviolet&t=1" alt="Último commit">
   </a>
 </p>
+
+---
+
+### 🌍 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| [**siteEmpresa**](https://github.com/JohnWRRC/siteEmpresa) | Website comercial com Flask e PostgreSQL | Flask, HTML, CSS, JS, PostgreSQL |
+| [**Ferramentas SIG**](https://github.com/JohnWRRC?tab=repositories&q=SIG&type=source) | Scripts e automações para análise geoespacial | Python, QGIS, PostGIS |
+| [**JW Importados**](https://github.com/JohnWRRC/JW-Importados) | Sistema web para vendas e gestão de produtos | HTML, CSS, JS, Flask |
+
+---
+
+### 🧩 Curva de aprendizado
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JohnWRRC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🗺️ “Transformando dados em mapas, e mapas em conhecimento.”  
+<p align="center">🌎 <b>#Python</b> • <b>#GIS</b> • <b>#Geoprocessamento</b> • <b>#DesenvolvimentoWeb</b></p>
