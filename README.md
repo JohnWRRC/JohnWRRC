@@ -20,13 +20,10 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWRRC&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Calendar de contribuições (pode exigir Action dependendo do cache) -->
-  <img alt="Contribuições" src="https://github.com/users/JohnWRRC/contributions" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/LEEClab/LS_CORRIDORS">
-    <img src="https://img.shields.io/github/last-commit/LEEClab/LS_CORRIDORS/master?style=for-the-badge&color=blueviolet" alt="Último commit">
+    <img src="https://img.shields.io/github/last-commit/LS_CORRIDORS/master?style=for-the-badge&color=blueviolet" alt="Último commit">
   </a>
 </p>
