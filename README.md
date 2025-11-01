@@ -26,6 +26,7 @@
 </p>
 
 <p align="center">
-  <!-- Badge de último commit em um repositório exemplo -->
-  [![Último commit](https://img.shields.io/github/last-commit/JohnWRRC/LS_CORRIDORS/master)](https://github.com/JohnWRRC/LS_CORRIDORS)
+  <a href="https://github.com/LEEClab/LS_CORRIDORS">
+    <img src="https://img.shields.io/github/last-commit/LEEClab/LS_CORRIDORS/master?style=for-the-badge&color=blueviolet" alt="Último commit">
+  </a>
 </p>
