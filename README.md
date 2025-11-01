@@ -73,26 +73,43 @@
 </div>
 <div>
   
+---
+
 ### 📚 Publicações e Artigos
 
-<p align="center">
-  <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/Conservat%20Sci%20and%20Prac%20-%202019%20-%20Ascens%C3%A3o%20-%20End%20of%20the%20line%20for%20the%20golden%20lion%20tamarin%20%20A%20single%20road%20threatens%2030%20years%20of.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_End%20of%20the%20Line%20for%20the%20Golden%20Lion%20Tamarin-Download-blueviolet?style=for-the-badge" alt="Artigo 1">
-  </a>
-</p>
+📖 Aqui estão alguns dos meus artigos e publicações científicas disponíveis para leitura ou download:
 
-<p align="center">
-  <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/Outro_Artigo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Outro%20Artigo%20-%20Download-green?style=for-the-badge" alt="Artigo 2">
-  </a>
-</p>
+<ul>
+  <li>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Conservat%20Sci%20and%20Prac%20-%202019%20-%20Ascens%C3%A3o%20-%20End%20of%20the%20line%20for%20the%20golden%20lion%20tamarin%20%20A%20single%20road%20threatens%2030%20years%20of.pdf" target="_blank">
+      <b>End of the Line for the Golden Lion Tamarin</b> — Conserv. Sci. Pract. (2019)
+    </a>
+    <br>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Conservat%20Sci%20and%20Prac%20-%202019%20-%20Ascens%C3%A3o%20-%20End%20of%20the%20line%20for%20the%20golden%20lion%20tamarin%20%20A%20single%20road%20threatens%2030%20years%20of.pdf">
+      <img src="https://img.shields.io/badge/📄_Baixar_PDF-blueviolet?style=flat-square" alt="Baixar Artigo 1">
+    </a>
+  </li>
 
-<p align="center">
-  <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/Terceiro_Artigo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Terceiro%20Artigo%20-%20Download-orange?style=for-the-badge" alt="Artigo 3">
-  </a>
-</p>
+  <li>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Outro_Artigo.pdf" target="_blank">
+      <b>Título do Segundo Artigo</b> — 2021
+    </a>
+    <br>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Outro_Artigo.pdf">
+      <img src="https://img.shields.io/badge/📄_Baixar_PDF-green?style=flat-square" alt="Baixar Artigo 2">
+    </a>
+  </li>
 
+  <li>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Terceiro_Artigo.pdf" target="_blank">
+      <b>Título do Terceiro Artigo</b> — 2023
+    </a>
+    <br>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Terceiro_Artigo.pdf">
+      <img src="https://img.shields.io/badge/📄_Baixar_PDF-orange?style=flat-square" alt="Baixar Artigo 3">
+    </a>
+  </li>
+</ul>
   
 </div>
 ### 🗺️ “Transformando dados em mapas, e mapas em conhecimento.”  
