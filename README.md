@@ -61,7 +61,7 @@
 ---
 <div>
   
-### 🌍 Projetos em destaque
+### 🌍 Portifólio
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
