@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" />
   </a>
   <a href="https://wa.me/5519996760276" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="45" alt="WhatsApp" />
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/john-ribeiro-077412a2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
@@ -32,14 +32,16 @@
 </div>
 
 ---
+<div>
 
 ### 🧠 Tecnologias & Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgres,flask,git,github,vscode,linux" />
 </p>
-
+</div>
 ---
-
+<div>
+  
 ### 📊 Estatísticas do GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnWRRC&show_icons=true&theme=tokyonight&count_private=true" alt="JohnWRRC's GitHub stats"/>
@@ -48,6 +50,7 @@
 
 ---
 
+</div>  
 ### 🕓 Último commit
 <p align="center">
   <a href="https://github.com/JohnWRRC/siteEmpresa">
@@ -56,16 +59,18 @@
 </p>
 
 ---
-
+<div>
+  
 ### 🌍 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
 | [**LS_CORRIDORS(https://github.com/JohnWRRC/LS_CORRIDORS)**](https://github.com/JohnWRRC/LS_CORRIDORS) | Modelagem de coredores Ecolgicos  | Python, GrassPY, R|
 | [**LS_METRCIS**](https://github.com/JohnWRRC/LS_METRICS) | Ferramenta voltada à análise de métricas de paisagem 🌿, desenvolvida para auxiliar estudos de ecologia espacial e planejamento ambiental.| Python, GRASSPY, R |
-| [**LS_METRCIS**](https://github.com/JohnWRRC/projeto_Larissa) |Plugin QGIS desenvolvido em Python para classificação automática das laterais de lotes integrados ao LoteLink.| PyQGis,GDAL,OGR|
+| [**LOTELINK**](https://github.com/JohnWRRC/projeto_Larissa) |Plugin QGIS desenvolvido em Python para classificação automática das laterais de lotes integrados ao LoteLink.| PyQGis,GDAL,OGR|
 | [**Ferramentas SIG**](https://github.com/JohnWRRC?tab=repositories&q=SIG&type=source) | Scripts e automações para análise geoespacial | Python, QGIS, PostGIS |
 
+</div>
 
 ### 🗺️ “Transformando dados em mapas, e mapas em conhecimento.”  
 <p align="center">🌎 <b>#Python</b> • <b>#GIS</b> • <b>#Geoprocessamento</b> • <b>#DesenvolvimentoWeb</b><b>#AutomaçãoDesktop</b> </p>
