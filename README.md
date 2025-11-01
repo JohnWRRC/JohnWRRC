@@ -59,7 +59,7 @@
 
   <li>
     <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/estratgia-espacial-livro-biodiversidade-49.pdf" target="_blank">
-      <b>Mapeamentos para a conservação e recuperação da biodiversidade na Mata Atlântica</b> — 2021
+      <b>Mapeamentos para a conservação e recuperação da biodiversidade na Mata Atlântica</b> 
     </a>
     <br>
     <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/estratgia-espacial-livro-biodiversidade-49.pdf">
@@ -69,13 +69,24 @@
 
   <li>
     <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Landscape%20resistance%20influences%20effective%20dispersal%20of%20endangered%20golden.pdf" target="_blank">
-      <b>Landscape resistance influences effective dispersal of endangered golden lion tamarins within the Atlantic Forest</b> — 2023
+      <b>Landscape resistance influences effective dispersal of endangered golden lion tamarins within the Atlantic Forest</b>
     </a>
     <br>
     <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Landscape%20resistance%20influences%20effective%20dispersal%20of%20endangered%20golden.pdf">
       <img src="https://img.shields.io/badge/📄_Baixar_PDF-orange?style=flat-square" alt="Baixar Artigo 3">
     </a>
+
+  </li>  
+  <li>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/regolin_etal_2017.pdf" target="_blank">
+      <b>tituloForest cover influences occurrence of mammalian carnivores within Brazilian Atlantic Forest</b>
+    </a>
+    <br>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/regolin_etal_2017.pdf">
+      <img src="https://img.shields.io/badge/📄_Baixar_PDF-orange?style=flat-square" alt="Baixar Artigo 3">
+    </a>
   </li>
+  
 </ul>
 
 ---
