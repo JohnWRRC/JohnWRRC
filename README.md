@@ -24,5 +24,5 @@
 
 <p align="center">
   <!-- Badges -->
-  [![Último commit](https://img.shields.io/github/last-commit/JohnWRRC/SEU_REPO/main)](https://github.com/JohnWRRC/SEU_REPO)
+  [![Último commit](https://img.shields.io/github/last-commit/JohnWRRC/LS_CORRIDORS/main)](https://github.com/JohnWRRC/LS_CORRIDORS)
 </p>
