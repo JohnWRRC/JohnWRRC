@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/JohnWRRC/LS_CORRIDORS">
-    <img src="https://img.shields.io/github/last-commit/JohnWRRC/LS_CORRIDORS/master?style=for-the-badge&color=blueviolet" alt="Último commit">
+  <a href="https://github.com/JohnWRRC/siteEmpresa">
+    <img src="https://img.shields.io/github/last-commit//JohnWRRC/siteEmpresa/main?style=for-the-badge&color=blueviolet" alt="Último commit">
   </a>
 </p>
