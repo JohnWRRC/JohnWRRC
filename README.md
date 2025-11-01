@@ -11,15 +11,15 @@
 <!-- Painel simples com cards prontos -->
 <p align="center">
   <!-- Card geral -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnWRRC&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWRRC&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <!-- Calendar de contribuições (pode exigir Action dependendo do cache) -->
-  <img alt="Contribuições" src="https://github.com/users/SEU_USUARIO/contributions" />
+  <img alt="Contribuições" src="https://github.com/users/JohnWRRC/contributions" />
 </p>
 
 <p align="center">
