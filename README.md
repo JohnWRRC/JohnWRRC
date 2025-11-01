@@ -48,7 +48,7 @@
 
 <ul>
   <li>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Methods%20Ecol%20Evol%20-%202017%20-%20Ribeiro%20-%20LandScape%20Corridors%20%20lscorridors%20%20%20a%20new%20software%20package%20for%20modelling%20ecological.pdf" target="_blank">
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/Methods%20Ecol%20Evol%20-%202017%20-%20Ribeiro%20-%20LandScape%20Corridors%20%20lscorridors%20%20%20a%20new%20software%20package%20for%20modelling%20ecological.pdf" target="_blank">
       <b>LandScape Corridors (LSCORRIDORS):</b> a new software package for modelling ecological corridors based on landscape patterns and species requirements
     </a>
     <br>
@@ -58,7 +58,7 @@
   </li>
 
   <li>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/estratgia-espacial-livro-biodiversidade-49.pdf" target="_blank">
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/estratgia-espacial-livro-biodiversidade-49.pdf" target="_blank">
       <b>Mapeamentos para a conservação e recuperação da biodiversidade na Mata Atlântica</b> 
     </a>
     <br>
@@ -68,7 +68,7 @@
   </li>
 
   <li>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Landscape%20resistance%20influences%20effective%20dispersal%20of%20endangered%20golden.pdf" target="_blank">
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/Landscape%20resistance%20influences%20effective%20dispersal%20of%20endangered%20golden.pdf" target="_blank">
       <b>Landscape resistance influences effective dispersal of endangered golden lion tamarins within the Atlantic Forest</b>
     </a>
     <br>
@@ -77,15 +77,17 @@
     </a>
 
   </li>  
+  
   <li>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/regolin_etal_2017.pdf" target="_blank">
-      <b>Forest cover influences occurrence of mammalian carnivores within Brazilian Atlantic Forest</b>
-    </a>
-    <br>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/regolin_etal_2017.pdf">
-      <img src="https://img.shields.io/badge/📄_Baixar_PDF-orange?style=flat-square" alt="Baixar Artigo 4">
-    </a>
-  </li>
+  <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/regolin_etal_2017.pdf" target="_blank">
+    <b>Forest cover influences occurrence of mammalian carnivores within Brazilian Atlantic Forest</b>
+  </a>
+  <br>
+  <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/regolin_etal_2017.pdf">
+    <img src="https://img.shields.io/badge/📄_Baixar_PDF-orange?style=flat-square" alt="Baixar Artigo 4">
+  </a>
+</li>
+  
   
 </ul>
 
