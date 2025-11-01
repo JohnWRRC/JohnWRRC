@@ -79,11 +79,11 @@
   </li>  
   <li>
     <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/regolin_etal_2017.pdf" target="_blank">
-      <b>tituloForest cover influences occurrence of mammalian carnivores within Brazilian Atlantic Forest</b>
+      <b>Forest cover influences occurrence of mammalian carnivores within Brazilian Atlantic Forest</b>
     </a>
     <br>
     <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/regolin_etal_2017.pdf">
-      <img src="https://img.shields.io/badge/📄_Baixar_PDF-orange?style=flat-square" alt="Baixar Artigo 3">
+      <img src="https://img.shields.io/badge/📄_Baixar_PDF-orange?style=flat-square" alt="Baixar Artigo 4">
     </a>
   </li>
   
