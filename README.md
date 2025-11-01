@@ -40,11 +40,9 @@
 </p>
 </div>
 ---
+
 <div>
-<div>
-  
----
----
+
 ### 📚 Publicações e Artigos
 
 📖 Aqui estão alguns dos meus artigos e publicações científicas disponíveis para leitura ou download:
@@ -83,7 +81,7 @@
   
 </div>
 ---
-  
+---
 ### 📊 Estatísticas do GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnWRRC&show_icons=true&theme=tokyonight&count_private=true" alt="JohnWRRC's GitHub stats"/>
