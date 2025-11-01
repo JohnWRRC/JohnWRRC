@@ -46,18 +46,11 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [**[LS_CORRIDORS](https://github.com/JohnWRRC/LS_CORRIDORS)**](https://github.com/JohnWRRC/LS_CORRIDORS) | Modelagem de coredores Ecolgicos  | Python, GrassPY, R|
-| [**Ferramentas SIG**](https://github.com/JohnWRRC?tab=repositories&q=SIG&type=source) | Scripts e automações para análise geoespacial | Python, QGIS, PostGIS |
+| [**LS_CORRIDORS(https://github.com/JohnWRRC/LS_CORRIDORS)**](https://github.com/JohnWRRC/LS_CORRIDORS) | Modelagem de coredores Ecolgicos  | Python, GrassPY, R|
 | [**LS_METRCIS**](https://github.com/JohnWRRC/LS_METRICS) | Ferramenta voltada à análise de métricas de paisagem 🌿, desenvolvida para auxiliar estudos de ecologia espacial e planejamento ambiental.| Python, GRASSPY, R |
+| [**LS_METRCIS**](https://github.com/JohnWRRC/projeto_Larissa) |Plugin QGIS desenvolvido em Python para classificação automática das laterais de lotes integrados ao LoteLink.| PyQGis,GDAL,OGR|
+| [**Ferramentas SIG**](https://github.com/JohnWRRC?tab=repositories&q=SIG&type=source) | Scripts e automações para análise geoespacial | Python, QGIS, PostGIS |
 
----
-
-### 🧩 Curva de aprendizado
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JohnWRRC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🗺️ “Transformando dados em mapas, e mapas em conhecimento.”  
-<p align="center">🌎 <b>#Python</b> • <b>#GIS</b> • <b>#Geoprocessamento</b> • <b>#DesenvolvimentoWeb</b></p>
+<p align="center">🌎 <b>#Python</b> • <b>#GIS</b> • <b>#Geoprocessamento</b> • <b>#DesenvolvimentoWeb</b><b>#AutomaçãoDesktop</b> </p>
