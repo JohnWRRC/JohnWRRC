@@ -8,10 +8,21 @@
 - 😄 Pronomes: ele/dele
 = ⚡ Curiosidade: sou apaixonado por tecnologia, mapas e por transformar ideias em soluções práticas.
 
-<div>
-<!-- Card com estatísticas gerais -->
-<img align="left" alt="John's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true" />
+<!-- Painel simples com cards prontos -->
+<p align="center">
+  <!-- Card geral -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
-<!-- Card com linguagens mais usadas -->
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
-</div>
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Calendar de contribuições (pode exigir Action dependendo do cache) -->
+  <img alt="Contribuições" src="https://github.com/users/SEU_USUARIO/contributions" />
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  [![Último commit](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPO/main)](https://github.com/SEU_USUARIO/SEU_REPO)
+</p>
