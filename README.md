@@ -46,9 +46,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [**siteEmpresa**](https://github.com/JohnWRRC/siteEmpresa) | Website comercial com Flask e PostgreSQL | Flask, HTML, CSS, JS, PostgreSQL |
+| [**[LS_CORRIDORS](https://github.com/JohnWRRC/LS_CORRIDORS)**](https://github.com/JohnWRRC/LS_CORRIDORS) | Modelagem de coredores Ecolgicos  | Python, GrassPY, R|
 | [**Ferramentas SIG**](https://github.com/JohnWRRC?tab=repositories&q=SIG&type=source) | Scripts e automações para análise geoespacial | Python, QGIS, PostGIS |
-| [**JW Importados**](https://github.com/JohnWRRC/JW-Importados) | Sistema web para vendas e gestão de produtos | HTML, CSS, JS, Flask |
+| [**LS_METRCIS**](https://github.com/JohnWRRC/LS_METRICS) | Ferramenta voltada à análise de métricas de paisagem 🌿, desenvolvida para auxiliar estudos de ecologia espacial e planejamento ambiental.| Python, GRASSPY, R |
 
 ---
 
