@@ -6,7 +6,7 @@
 ### 🚀 Sobre mim
 
 - 🔭 Trabalho com **desenvolvimento de ferramentas SIG**, **automação de processos** e **análise de dados geográficos**.  
-- 🌱 Atualmente aprendendo **JavaScript**, **React** e **Java**.  
+- 🌱 Atualmente estou aprendendo **JavaScript**, **React** e **Java**.  
 - 👯 Procuro colaborar em projetos que envolvam **Análise geoespacial**, **Automação com Python** e **desenvolvimento de aplicações web GIS**.  
 - 💬 Pergunte-me sobre: `Python`, `QGIS`, `PostgreSQL/PostGIS`, `Flask`, `HTML`, `CSS`, `JavaScript`, `Java` e integração de dados geográficos.  
 - 😄 **Pronomes:** ele/dele  
