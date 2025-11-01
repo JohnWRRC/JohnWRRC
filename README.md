@@ -6,15 +6,30 @@
 ### 🚀 Sobre mim
 
 - 🔭 Trabalho com **desenvolvimento de ferramentas SIG**, **automação de processos** e **análise de dados geográficos**.  
-- 🌱 Atualmente aprendendo **Flask**, **PostgreSQL** e **geoprocessamento avançado com Python e SIG**.  
-- 👯 Procuro colaborar em projetos que envolvam **análise geoespacial**, **automação com Python** e **desenvolvimento de aplicações web GIS**.  
+- 🌱 Atualmente aprendendo **JavaScript**, **React** e **Java**.  
+- 👯 Procuro colaborar em projetos que envolvam **Análise geoespacial**, **Automação com Python** e **desenvolvimento de aplicações web GIS**.  
 - 💬 Pergunte-me sobre: `Python`, `QGIS`, `PostgreSQL/PostGIS`, `Flask`, `HTML`, `CSS`, `JavaScript`, `Java` e integração de dados geográficos.  
-- 📫 **Contato:**
-  - ✉️ [geodevjohn@gmail.com](mailto:geodevjohn@gmail.com)  
-  - 💬 [WhatsApp](https://wa.me/5519996760276)  
-  - 💼 [LinkedIn](https://www.linkedin.com/in/john-ribeiro-077412a2/)
 - 😄 **Pronomes:** ele/dele  
 - ⚡ **Curiosidade:** Sou apaixonado por tecnologia, mapas 🌍 e por transformar ideias em soluções práticas.  
+
+---
+
+### 🌐 Contatos
+
+<div align="center">
+  <a href="mailto:geodevjohn@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/5519996760276" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="45" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/john-ribeiro-077412a2/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JohnWRRC" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
