@@ -65,7 +65,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [**LS_CORRIDORS(https://github.com/JohnWRRC/LS_CORRIDORS)**](https://github.com/JohnWRRC/LS_CORRIDORS) | Modelagem de coredores Ecolgicos  | Python, GrassPY, R|
+| [**LS_CORRIDORS**](https://github.com/JohnWRRC/LS_CORRIDORS) | Modelagem de coredores Ecolgicos  | Python, GrassPY, R|
 | [**LS_METRCIS**](https://github.com/JohnWRRC/LS_METRICS) | Ferramenta voltada à análise de métricas de paisagem 🌿, desenvolvida para auxiliar estudos de ecologia espacial e planejamento ambiental.| Python, GRASSPY, R |
 | [**LOTELINK**](https://github.com/JohnWRRC/projeto_Larissa) |Plugin QGIS desenvolvido em Python para classificação automática das laterais de lotes integrados ao LoteLink.| PyQGis,GDAL,OGR|
 | [**Ferramentas SIG**](https://github.com/JohnWRRC?tab=repositories&q=SIG&type=source) | Scripts e automações para análise geoespacial | Python, QGIS, PostGIS |
