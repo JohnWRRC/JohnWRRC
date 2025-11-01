@@ -41,6 +41,48 @@
 </div>
 ---
 <div>
+<div>
+  
+---
+
+### 📚 Publicações e Artigos
+
+📖 Aqui estão alguns dos meus artigos e publicações científicas disponíveis para leitura ou download:
+
+<ul>
+  <li>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/Methods%20Ecol%20Evol%20-%202017%20-%20Ribeiro%20-%20LandScape%20Corridors%20%20lscorridors%20%20%20a%20new%20software%20package%20for%20modelling%20ecological.pdf" target="_blank">
+      <b>LandScape Corridors (LSCORRIDORS): a new software package for modelling ecological corridors based on landscape patterns and species requirements
+    </a>
+    <br>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/Methods%20Ecol%20Evol%20-%202017%20-%20Ribeiro%20-%20LandScape%20Corridors%20%20lscorridors%20%20%20a%20new%20software%20package%20for%20modelling%20ecological.pdf">
+      <img src="https://img.shields.io/badge/📄_Baixar_PDF-blueviolet?style=flat-square" alt="Baixar Artigo 1">
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/estratgia-espacial-livro-biodiversidade-49.pdf" target="_blank">
+      <b>Mapeamentos para a conservação e recuperação da biodiversidade na Mata Atlântica</b> — 2021
+    </a>
+    <br>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/estratgia-espacial-livro-biodiversidade-49.pdf.pdf">
+      <img src="https://img.shields.io/badge/📄_Baixar_PDF-green?style=flat-square" alt="Baixar Artigo 2">
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/Landscape%20resistance%20influences%20effective%20dispersal%20of%20endangered%20golden.pdf" target="_blank">
+      <b>Landscape resistance influences effective dispersal of endangered golden lion tamarins within the Atlantic Forest</b> — 2023
+    </a>
+    <br>
+    <a href="https://github.com/JohnWRRC/JohnWRRC/blob/main/Landscape%20resistance%20influences%20effective%20dispersal%20of%20endangered%20golden.pdf">
+      <img src="https://img.shields.io/badge/📄_Baixar_PDF-orange?style=flat-square" alt="Baixar Artigo 3">
+    </a>
+  </li>
+</ul>
+  
+</div>
+
   
 ### 📊 Estatísticas do GitHub
 <p align="center">
@@ -71,46 +113,6 @@
 | [**Ferramentas SIG**](https://github.com/JohnWRRC?tab=repositories&q=SIG&type=source) | Scripts e automações para análise geoespacial | Python, QGIS, PostGIS |
 
 </div>
-<div>
-  
----
 
-### 📚 Publicações e Artigos
-
-📖 Aqui estão alguns dos meus artigos e publicações científicas disponíveis para leitura ou download:
-
-<ul>
-  <li>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Conservat%20Sci%20and%20Prac%20-%202019%20-%20Ascens%C3%A3o%20-%20End%20of%20the%20line%20for%20the%20golden%20lion%20tamarin%20%20A%20single%20road%20threatens%2030%20years%20of.pdf" target="_blank">
-      <b>End of the Line for the Golden Lion Tamarin</b> — Conserv. Sci. Pract. (2019)
-    </a>
-    <br>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Conservat%20Sci%20and%20Prac%20-%202019%20-%20Ascens%C3%A3o%20-%20End%20of%20the%20line%20for%20the%20golden%20lion%20tamarin%20%20A%20single%20road%20threatens%2030%20years%20of.pdf">
-      <img src="https://img.shields.io/badge/📄_Baixar_PDF-blueviolet?style=flat-square" alt="Baixar Artigo 1">
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Outro_Artigo.pdf" target="_blank">
-      <b>Título do Segundo Artigo</b> — 2021
-    </a>
-    <br>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Outro_Artigo.pdf">
-      <img src="https://img.shields.io/badge/📄_Baixar_PDF-green?style=flat-square" alt="Baixar Artigo 2">
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Terceiro_Artigo.pdf" target="_blank">
-      <b>Título do Terceiro Artigo</b> — 2023
-    </a>
-    <br>
-    <a href="https://github.com/JohnWRRC/JohnWRRC/raw/main/Terceiro_Artigo.pdf">
-      <img src="https://img.shields.io/badge/📄_Baixar_PDF-orange?style=flat-square" alt="Baixar Artigo 3">
-    </a>
-  </li>
-</ul>
-  
-</div>
 ### 🗺️ “Transformando dados em mapas, e mapas em conhecimento.”  
 <p align="center">🌎 <b>#Python</b> • <b>#GIS</b> • <b>#Geoprocessamento</b> • <b>#DesenvolvimentoWeb</b><b>#AutomaçãoDesktop</b> </p>
