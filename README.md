@@ -5,15 +5,24 @@
 
 ---
 
-### 🚀 Sobre mim
+###🚀 Sobre mim
 
-- 🔭 Trabalho com **desenvolvimento de ferramentas SIG**, **automação de processos** e **análise de dados geográficos**.  
-- 🌱 Atualmente aprendendo **JavaScript**, **React** e **Java**.  
-- 👯 Procuro colaborar em projetos que envolvam **Análise geoespacial**, **Automação com Python** e **desenvolvimento de aplicações web GIS**.  
-- 💬 Pergunte-me sobre: `Python`, `QGIS`, `PostgreSQL/PostGIS`, `Flask`, `HTML`, `CSS`, `JavaScript`, `Java` e integração de dados geográficos.  
-- 😄 **Pronomes:** ele/dele  
-- ⚡ **Curiosidade:** Sou apaixonado por tecnologia, mapas 🌍 e por transformar ideias em soluções práticas.  
+Sou John Wesley Ribeiro, profissional multidisciplinar com experiência em desenvolvimento de ferramentas SIG (Sistemas de Informação Geográfica), automação de processos, análise espacial de dados e integração entre sistemas web e bancos geográficos.
 
+🔧 Especializado em Python aplicado ao geoprocessamento, QGIS, PostgreSQL/PostGIS, Flask e desenvolvimento de aplicações web GIS.
+
+🌎 Domino metodologias de análise espacial, processamento de dados raster e vetoriais, modelagem geográfica, integração de APIs e otimização de fluxos com automação.
+
+💡 Tenho sólida base em banco de dados geográficos, consultas espaciais complexas, implementação de dashboards e painéis interativos e integração entre frontend e backend em aplicações SIG.
+
+⚙️ Atualmente, estudo JavaScript, React e Java para expandir o desenvolvimento de interfaces modernas e dinâmicas conectadas a sistemas GIS e APIs geoespaciais.
+
+🧭 Também possuo formação e experiência técnica em vidros, esquadrias de alumínio e PVC, com foco em gestão de projetos, medições, vidros personalizados, segurança e normas técnicas — habilidades que fortalecem meu olhar técnico e preciso para engenharia e projetos.
+
+💬 Tecnologias e ferramentas com as quais trabalho:
+Python, QGIS, PostgreSQL/PostGIS, Flask, Leaflet, JavaScript, HTML, CSS, Java, Git/GitHub, APIs REST, GeoServer.
+
+⚡ Curiosidade: Tenho paixão por unir tecnologia e precisão técnica, criando soluções que conectam o mundo físico ao digital — de mapas inteligentes a projetos estruturais.
 ---
 
 ### 🌐 Contatos
