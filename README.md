@@ -5,7 +5,7 @@
 
 ---
 
-###🚀 Sobre mim
+Sobre Mim
 
 Sou John Wesley Ribeiro, profissional multidisciplinar com experiência em desenvolvimento de ferramentas SIG (Sistemas de Informação Geográfica), automação de processos, análise espacial de dados e integração entre sistemas web e bancos geográficos.
 
