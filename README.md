@@ -16,7 +16,7 @@ Sou John Wesley Ribeiro, profissional multidisciplinar com experiência em desen
 💡 Tenho sólida base em banco de dados geográficos, consultas espaciais complexas, implementação de dashboards e painéis interativos e integração entre frontend e backend em aplicações SIG.
 
 💬 Tecnologias e ferramentas com as quais trabalho:
-Python, QGIS, PostgreSQL/PostGIS, Flask, Leaflet, JavaScript, HTML, CSS, Java, Git/GitHub, APIs REST, GeoServer.
+Python, QGIS, PostgreSQL/PostGIS, Flask, JavaScript, Java, Git/GitHub, APIs React, GeoServer.
 
 ⚡ Curiosidade: Tenho paixão por unir tecnologia e precisão técnica, criando soluções que conectam o mundo físico ao digital — de mapas inteligentes a projetos estruturais.
 ---
