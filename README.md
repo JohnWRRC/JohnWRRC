@@ -13,10 +13,10 @@ Sou John Wesley Ribeiro, profissional multidisciplinar com experiência em desen
 
 🌎 Domino metodologias de análise espacial, processamento de dados raster e vetoriais, modelagem geográfica, integração de APIs e otimização de fluxos com automação.
 
-💡 Tenho sólida base em banco de dados geográficos, consultas espaciais complexas, implementação de dashboards e painéis interativos e integração entre frontend e backend em aplicações SIG.
+💡 Tenho sólida base em banco de dados geográficos, consultas espaciais complexas, integração entre frontend e backend em aplicações SIG.
 
 💬 Tecnologias e ferramentas com as quais trabalho:
-Python, QGIS, PostgreSQL/PostGIS, Flask, JavaScript, Java, Git/GitHub, APIs React, GeoServer.
+Python, QGIS, PostgreSQL/PostGIS, Flask, JavaScript, Java, Git/GitHub, APIs React.
 
 ⚡ Curiosidade: Tenho paixão por unir tecnologia e precisão técnica, criando soluções que conectam o mundo físico ao digital — de mapas inteligentes a projetos estruturais.
 ---
